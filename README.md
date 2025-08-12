@@ -1,1 +1,1 @@
-Deployment url: https://landslide-detection.streamlit.app/
+Deployment url: https://landslideclassification.streamlit.app/
